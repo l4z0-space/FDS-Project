@@ -6,7 +6,7 @@
 - Files Manipulation
 
 
-> A lot of spaghetti code used (all classes and program in the same file).
+> A lot of spaghetti code used, as it was my first project ever.
 
 
 ![hierarchy](https://github.com/l4z0-space/FDS-Project/blob/master/img/hierarchy.PNG)
