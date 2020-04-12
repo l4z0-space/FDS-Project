@@ -1,0 +1,9 @@
+intern,Tom Jomson,Reedwood Str.,19,101,+355 683215 32,11.500000,19,2,3123
+
+experienced,Mark Lepster,Mumbani str,30,102,+365 234421 2,30,System Analyst,Oxford,3,3,9,1233
+
+
+experienced,Toni Gashi,Pitown,28,202,05815124,43,System Developer,AUBG,4,1,9
+new,Ionit Beleni,Kurkund,42,111,321341,14,System Developer,Oxford,4,3
+intern,Merlin Monroe,Podss,34,422,312,21.000000,34,12
+intern,Pols,Majtas,19,10001,231,11.500000,19,3

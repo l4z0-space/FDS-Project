@@ -1,6 +1,0 @@
-﻿  ConsoleApplication2.cpp
-c:\users\lns171\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(754): warning C4018: '<=': signed/unsigned mismatch
-c:\users\lns171\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(774): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-c:\users\lns171\documents\visual studio 2015\projects\consoleapplication2\consoleapplication2\consoleapplication2.cpp(894): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
-  ConsoleApplication2.vcxproj -> c:\users\lns171\documents\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.exe
-  ConsoleApplication2.vcxproj -> c:\users\lns171\documents\visual studio 2015\Projects\ConsoleApplication2\Debug\ConsoleApplication2.pdb (Full PDB)

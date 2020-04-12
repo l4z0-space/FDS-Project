@@ -1,0 +1,4 @@
+client,Postrat Mitrati,Burdushe,299,09318241,100000.000000
+client,Michael Polson,Pogrtes,999,05012012,2999.000000
+client,Kolson Punts,Baltimore,888,341241,4444.000000
+client,Lazaron Shyta,Aty djathtas,10001,123123,100030.000000
